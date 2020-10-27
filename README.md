@@ -1,4 +1,4 @@
-[TOC]
+- [Optional Chaining](#optional-chaining)
 
 # Optional Chaining
 O operador de encadeamento opcional provê uma forma de simplificar o acesso a valores através de objetos conectados, quando é possível que uma referência ou função possa ser undefined ou null.
